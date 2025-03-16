@@ -44,5 +44,7 @@ Through advanced analytics such as customer segmentation, market basket analysis
     Real-time analytics dashboard (Power BI / Streamlit).
     Product recommendation engine using collaborative filtering.
     Adding more interactive to our webapp.
+    Adding Sales Forecasting.
+    Adding Event Impact Analysis.
 
   
